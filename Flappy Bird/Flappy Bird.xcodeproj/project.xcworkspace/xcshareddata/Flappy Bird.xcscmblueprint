@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CD9F1290D2986943521CCE9C8ADC883FA72B8BFF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "CD9F1290D2986943521CCE9C8ADC883FA72B8BFF" : 9223372036854775807,
+    "4C9456B4622CC201E2A71D1994B760EBF9E69574" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AD9210F4-3734-4EC0-AD8C-DFB5BD280075",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "CD9F1290D2986943521CCE9C8ADC883FA72B8BFF" : "FlappyBird\/",
+    "4C9456B4622CC201E2A71D1994B760EBF9E69574" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Flappy Bird",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Flappy Bird\/Flappy Bird.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Panderson14\/PHYS2660.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4C9456B4622CC201E2A71D1994B760EBF9E69574"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Panderson14\/FlappyBird.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CD9F1290D2986943521CCE9C8ADC883FA72B8BFF"
+    }
+  ]
+}
